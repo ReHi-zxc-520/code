@@ -1,0 +1,12 @@
+# C++ 编译产物
+1
+*.dSYM/
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
